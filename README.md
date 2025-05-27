@@ -50,7 +50,7 @@ flappy-bird-react/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/flappy-bird-react.git
+git clone https://github.com/tanwee14/Flappy-Bird-Game.git
 cd flappy-bird-react
 ```
 
